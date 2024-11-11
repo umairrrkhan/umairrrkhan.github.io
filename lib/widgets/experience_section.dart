@@ -32,7 +32,7 @@ class ExperienceSection extends StatelessWidget {
                           'Engineered seamless ESP32 and WiFi device integration, reducing data latency by 40% ',
                           'Real-Time Data: Using Arduino for instant data processing and display. ',
                         ],
-                        technologies: ['Kviy', 'Arduino', 'ESP32', 'Python'],
+                        technologies: ['Kivy', 'Arduino', 'ESP32', 'Python'],
                       ),
                     ),
                     _ExperienceItem(
