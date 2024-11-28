@@ -34,10 +34,10 @@ class ProjectsSection extends StatelessWidget {
                 link: 'https://github.com/umairrrkhan/Skin-Cancer-Image-Classification-Using-TF',
               ),
               ProjectCard(
-                title: 'Predictive Analysis of Bus Engine Replacement',
-                description: 'Predictive analysis of bus engine replacement using logistic regression. ',
-                imageUrl: 'assets/images/project2.jpg',
-                link: 'https://github.com/umairrrkhan/Predictive-Analysis-of-Bus-Engine-Replacement-A-Logistic-Regression-Approach',
+                title: 'End-to-End Text Processing and Generation using GPT-2',
+                description: 'EnglishTextGen is a fine-tuned GPT-2 model trained on 39 million tokens, generating coherent and contextually relevant English text for various applications.',
+                imageUrl: 'assets/images/project2.png',
+                link: 'https://github.com/umairrrkhan/End-to-End-Text-Processing-and-Generation-using-GPT-2',
               ),
               ProjectCard(
                 title: 'Making Text Images Readable Again',
